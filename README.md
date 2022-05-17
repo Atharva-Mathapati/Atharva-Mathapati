@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atharva-Mathapati
-- Currently studying B.Sc. Computer Science at Technical University of Munich (TUM), Germany
+<!--- Currently studying B.Sc. Computer Science at Technical University of Munich (TUM), Germany--->
 - 📫 How to reach me -> atharva.mathapati@tum.de
 
 <!---
